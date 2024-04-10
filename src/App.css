@@ -1,0 +1,6 @@
+@import 'react-toastify/dist/ReactToastify.css';
+.Component{
+  max-width: 1160px;
+  margin-left: auto;
+  margin-right: auto;
+}
